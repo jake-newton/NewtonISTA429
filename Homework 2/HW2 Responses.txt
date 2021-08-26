@@ -1,0 +1,28 @@
+Box 1 Responses:
+
+Data Management - I think subpart F is very important since not all data can fit on one table, multiple
+tables might be needed in order to properly sort or order the information and having unique identifiers
+prevents spill-over onto other tables or programs reading the same data twice, overwriting data, and
+perhaps even causing the program to crash.
+
+Software - Making Dependencies and requirements explicit allows developers or people using your code to
+know troubleshoot effectively and ensure high-quality analysis over all of their data.
+
+Collaboration - Creating a shared "to-do list" allows a team or group to effectively collaborate on a
+project by breaking down the project into sections that individuals can tackle and it creates a roadmap
+to project completion.
+
+Project Organization - Naming all files to reflect their contents allows the team to quickly direct their
+efforts into the right files instead of searching through every file in a directory to find what they are
+looking for.
+
+Keeping track of changes - Sharing changes frequently ensures that team members do not work on old material,
+keeping the team informed of alterations within a timely manner.
+
+Box 3 Responses:
+
+Licensing - I chose the GNU Public License 3.0 since it allows others to use my work while ensuring I am not 
+held liable for the implementation of my ideas, seeing as it is the newest version, it accounts for more 
+current development.
+
+README - Contains Repository Name and description as well as a description on the intended use of the files.
